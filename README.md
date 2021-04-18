@@ -16,11 +16,11 @@ In order to predict the success of an organization after receiving funding money
 - The original model ran with 80 neurons on hidden layer 1, and 30 neurons on hidden layer 2 with activation function relu on the second hidden layer and sigmoid on the output layer
 - Per below snapshot, accuracy was only 72.42% so target performance was not achieved
 
-![Original](path)
+![Original](https://github.com/kroman3105/Neural_Network_Charity_Analysis/blob/main/Images/Original.PNG)
 
 - To increase model performance, we increased to 100 and 50 neorons on the first two layers and added a third layer with another 10 neurons.  We also decreased the epochs to 50 and changed the activation assoicated with the output to tanh.  Unfortunately expected results were still not achieved with an accuracy of 72.07%
 
-![Optimized](path)
+![Optimized](https://github.com/kroman3105/Neural_Network_Charity_Analysis/blob/main/Images/Optimized.PNG)
 
 ## Summary
 
